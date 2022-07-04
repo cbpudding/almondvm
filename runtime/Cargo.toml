@@ -1,0 +1,10 @@
+[package]
+name = "almond-runtime"
+version = "0.1.0"
+authors = ["Alexander Hill <ahill@breadpudding.dev>"]
+edition = "2021"
+description = "A virtual machine for lightweight cross-platform applications"
+repository = "https://github.com/cbpudding/almondvm"
+license = "MIT"
+
+[dependencies]
